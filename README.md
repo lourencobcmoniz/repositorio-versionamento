@@ -17,10 +17,8 @@ Este repositório foi desenvolvido no âmbito académico com o objetivo de demon
 repositorio-versionamento/
 │
 ├── README.md
-│
-└── projeto-web/
-    ├── index.html
-    └── style.css
+├── index.html
+└── style.css
 
 ## Tecnologias Utilizadas
 
