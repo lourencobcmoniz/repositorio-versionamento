@@ -1,16 +1,47 @@
-# Repositório de Projetos
+# Repositório com Versionamento
 
-## Projeto Web
+## Sobre o Projeto
 
-Projeto simples criado para demonstrar:
-- Git
-- GitHub
-- Versionamento
-- GitHub Pages
+Este repositório foi desenvolvido no âmbito académico com o objetivo de demonstrar:
 
-### Tecnologias
-- HTML
+- Organização de repositórios
+- Utilização do Git
+- Versionamento de projetos
+- Publicação com GitHub Pages
+- Documentação utilizando README.md
 
-### Autor
+---
+
+## Estrutura do Projeto
+
+repositorio-versionamento/
+│
+├── README.md
+│
+└── projeto-web/
+    ├── index.html
+    └── style.css
+
+## Tecnologias Utilizadas
+
+HTML5
+CSS3
+Git
+GitHub
+
+## Funcionalidades
+
+Página web simples
+Estrutura organizada
+Versionamento através de commits
+Publicação online com GitHub Pages
+
+## GitHub Pages
+
+O projeto encontra-se publicado através do GitHub Pages.
+
+## Autor
+
 Lourenço Angelice Bettencourt do Canto Moniz
 lourencocantomoniz@sempreceub.com
+GitHub: https://github.com/lourencobcmoniz
